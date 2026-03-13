@@ -1,0 +1,40 @@
+# .gitignore for Roblox Update Tracker
+
+# OpenClaw workspace files (user-generated reports)
+workspace/roblox-updates/*.md
+!workspace/roblox-updates/.gitkeep
+LATEST_VERSION.txt
+
+# User configuration
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Archives
+*.zip
+*.tar.gz
+
+# Node modules (if any JS tooling is added)
+node_modules/
+
+# Python cache (if any Python tools are added)
+__pycache__/
+*.pyc
+*.pyo

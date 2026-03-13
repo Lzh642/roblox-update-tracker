@@ -9,12 +9,16 @@ An OpenClaw skill for tracking Roblox engine release notes with deep technical a
 
 ---
 
-## 📖 语言 / Language
+## 📖 Language / 语言
 
-- [English](#english-documentation)
+- [English Documentation](#english-documentation)
 - [中文说明](#中文说明)
 
 ---
+
+<br>
+<br>
+<br>
 
 # English Documentation
 
@@ -38,7 +42,7 @@ An OpenClaw skill for tracking Roblox engine release notes with deep technical a
 
 ### Manual Installation
 
-1. Download the latest release from [Releases](https://github.com/yourusername/roblox-update-tracker/releases)
+1. Download the latest release from [Releases](https://github.com/Lzh642/roblox-update-tracker/releases)
 2. Extract to `~/.openclaw/skills/roblox-update-tracker/`
 3. Restart OpenClaw Gateway
 
@@ -116,7 +120,7 @@ Create `~/.openclaw/workspace/roblox-updates/config.json`:
 
 ## 📖 Example Report
 
-See [example report](https://github.com/yourusername/roblox-update-tracker/blob/main/examples/release-notes-712.md) for Roblox version 712.
+See [example report](https://github.com/Lzh642/roblox-update-tracker/blob/main/examples/release-notes-712.md) for Roblox version 712.
 
 ## 🤝 Contributing
 
@@ -127,6 +131,10 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+<br>
+<br>
+<br>
 
 # 中文说明
 
@@ -150,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 手动安装
 
-1. 从 [Releases](https://github.com/yourusername/roblox-update-tracker/releases) 下载最新版本
+1. 从 [Releases](https://github.com/Lzh642/roblox-update-tracker/releases) 下载最新版本
 2. 解压到 `~/.openclaw/skills/roblox-update-tracker/`
 3. 重启 OpenClaw Gateway
 
@@ -228,7 +236,7 @@ openclaw gateway restart
 
 ## 📖 示例报告
 
-查看 [Roblox 712 版本示例报告](https://github.com/yourusername/roblox-update-tracker/blob/main/examples/release-notes-712.md)。
+查看 [Roblox 712 版本示例报告](https://github.com/Lzh642/roblox-update-tracker/blob/main/examples/release-notes-712.md)。
 
 ## 🤝 贡献指南
 
@@ -240,17 +248,17 @@ openclaw gateway restart
 
 ---
 
-## 🙏 鸣谢 / Acknowledgments
+## 🙏 Acknowledgments / 鸣谢
 
-- [OpenClaw](https://openclaw.ai) - AI 助手平台
-- [Roblox](https://roblox.com) - 游戏平台
-- [DevForum](https://devforum.roblox.com) - 社区讨论
+- [OpenClaw](https://openclaw.ai) - AI assistant platform / AI 助手平台
+- [Roblox](https://roblox.com) - Game platform / 游戏平台
+- [DevForum](https://devforum.roblox.com) - Community discussions / 社区讨论
 
-## 📞 支持 / Support
+## 📞 Support / 支持
 
-如遇到问题或有疑问：
-- 提交 [Issue](https://github.com/yourusername/roblox-update-tracker/issues)
-- 访问 [OpenClaw 文档](https://docs.openclaw.ai)
+If you encounter any issues or have questions / 如遇问题或有疑问：
+- Open an [Issue](https://github.com/Lzh642/roblox-update-tracker/issues)
+- Visit [OpenClaw Documentation](https://docs.openclaw.ai)
 
 ---
 
